@@ -9,3 +9,7 @@ No because the message feature of messaging app is too complex to use a unit tex
 
 ## Question 2
 Yes because you can use this on a single function that checks wheter a string exceeds 80 characters.
+
+## Pages Links
+https://michael-marras.github.io/Lab5_Starter/expose.html
+https://michael-marras.github.io/Lab5_Starter/explore.html
